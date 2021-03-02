@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.20_AreaParalelogramo\bin\Debug\net5.0\cs_1.20_AreaParalelogramo.exe
+E:\GitHub\cs_1.20_AreaParalelogramo\bin\Debug\net5.0\cs_1.20_AreaParalelogramo.deps.json
+E:\GitHub\cs_1.20_AreaParalelogramo\bin\Debug\net5.0\cs_1.20_AreaParalelogramo.runtimeconfig.json
+E:\GitHub\cs_1.20_AreaParalelogramo\bin\Debug\net5.0\cs_1.20_AreaParalelogramo.runtimeconfig.dev.json
+E:\GitHub\cs_1.20_AreaParalelogramo\bin\Debug\net5.0\cs_1.20_AreaParalelogramo.dll
+E:\GitHub\cs_1.20_AreaParalelogramo\bin\Debug\net5.0\ref\cs_1.20_AreaParalelogramo.dll
+E:\GitHub\cs_1.20_AreaParalelogramo\bin\Debug\net5.0\cs_1.20_AreaParalelogramo.pdb
+E:\GitHub\cs_1.20_AreaParalelogramo\obj\Debug\net5.0\cs_1.20_AreaParalelogramo.csprojAssemblyReference.cache
+E:\GitHub\cs_1.20_AreaParalelogramo\obj\Debug\net5.0\cs_1.20_AreaParalelogramo.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.20_AreaParalelogramo\obj\Debug\net5.0\cs_1.20_AreaParalelogramo.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.20_AreaParalelogramo\obj\Debug\net5.0\cs_1.20_AreaParalelogramo.AssemblyInfo.cs
+E:\GitHub\cs_1.20_AreaParalelogramo\obj\Debug\net5.0\cs_1.20_AreaParalelogramo.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.20_AreaParalelogramo\obj\Debug\net5.0\cs_1.20_AreaParalelogramo.dll
+E:\GitHub\cs_1.20_AreaParalelogramo\obj\Debug\net5.0\ref\cs_1.20_AreaParalelogramo.dll
+E:\GitHub\cs_1.20_AreaParalelogramo\obj\Debug\net5.0\cs_1.20_AreaParalelogramo.pdb
+E:\GitHub\cs_1.20_AreaParalelogramo\obj\Debug\net5.0\cs_1.20_AreaParalelogramo.genruntimeconfig.cache
